@@ -1,0 +1,4 @@
+Number		Dims		Class Data
+0		(64, 64, 3)		['plate'] [143]
+1		(64, 64, 3)		['pomegranate'] [170]
+2		(64, 64, 3)		['go-kart'] [163]

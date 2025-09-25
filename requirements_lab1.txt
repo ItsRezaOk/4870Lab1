@@ -1,0 +1,16 @@
+# Lab 1 pinned packages (aligns with PDF)
+notebook
+jupyter
+numpy
+pandas
+matplotlib
+networkx
+pydot
+graphviz
+tensorflow==2.16.2
+tensorflow-datasets
+tensorboard==2.16.*
+tensorboard_plugin_profile==2.16.*
+nbconvert
+ipykernel
+git+https://github.com/duweisu/tiny-imagenet-tfds.git

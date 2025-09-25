@@ -1,0 +1,128 @@
+[
+  {
+    "layer": "conv2d",
+    "dtype": "float32",
+    "shape": [
+      1,
+      60,
+      60,
+      32
+    ],
+    "file": "conv2d_activation.bin"
+  },
+  {
+    "layer": "conv2d_1",
+    "dtype": "float32",
+    "shape": [
+      1,
+      56,
+      56,
+      32
+    ],
+    "file": "conv2d_1_activation.bin"
+  },
+  {
+    "layer": "max_pooling2d",
+    "dtype": "float32",
+    "shape": [
+      1,
+      28,
+      28,
+      32
+    ],
+    "file": "max_pooling2d_activation.bin"
+  },
+  {
+    "layer": "conv2d_2",
+    "dtype": "float32",
+    "shape": [
+      1,
+      26,
+      26,
+      64
+    ],
+    "file": "conv2d_2_activation.bin"
+  },
+  {
+    "layer": "conv2d_3",
+    "dtype": "float32",
+    "shape": [
+      1,
+      24,
+      24,
+      64
+    ],
+    "file": "conv2d_3_activation.bin"
+  },
+  {
+    "layer": "max_pooling2d_1",
+    "dtype": "float32",
+    "shape": [
+      1,
+      12,
+      12,
+      64
+    ],
+    "file": "max_pooling2d_1_activation.bin"
+  },
+  {
+    "layer": "conv2d_4",
+    "dtype": "float32",
+    "shape": [
+      1,
+      10,
+      10,
+      64
+    ],
+    "file": "conv2d_4_activation.bin"
+  },
+  {
+    "layer": "conv2d_5",
+    "dtype": "float32",
+    "shape": [
+      1,
+      8,
+      8,
+      128
+    ],
+    "file": "conv2d_5_activation.bin"
+  },
+  {
+    "layer": "max_pooling2d_2",
+    "dtype": "float32",
+    "shape": [
+      1,
+      4,
+      4,
+      128
+    ],
+    "file": "max_pooling2d_2_activation.bin"
+  },
+  {
+    "layer": "flatten",
+    "dtype": "float32",
+    "shape": [
+      1,
+      2048
+    ],
+    "file": "flatten_activation.bin"
+  },
+  {
+    "layer": "dense",
+    "dtype": "float32",
+    "shape": [
+      1,
+      256
+    ],
+    "file": "dense_activation.bin"
+  },
+  {
+    "layer": "dense_1",
+    "dtype": "float32",
+    "shape": [
+      1,
+      200
+    ],
+    "file": "dense_1_activation.bin"
+  }
+]

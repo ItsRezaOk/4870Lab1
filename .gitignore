@@ -1,0 +1,47 @@
+# --- Python / Jupyter ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.ipynb_checkpoint
+
+# --- Virtual envs ---
+venv/
+.env/
+.venv*/
+lab1_venv/
+
+# --- Editors/IDE ---
+.vscode/
+.idea/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Build / logs ---
+build/
+dist/
+*.log
+
+# --- Data & large generated artifacts (Lab 1/2) ---
+data/raw/
+data/tiny-imagenet-200/
+data/*/input_image.*
+data/*/shapes.json
+data/*/layer_*_input.bin
+data/*/layer_*_output.bin
+data/exports/
+img_data/              # if this holds source images, keep it if small
+
+# --- Models / checkpoints (handled by Git LFS below) ---
+models/
+*.h5
+*.keras
+*.onnx
+*.pt
+*.pth
+
+# --- Profiling / caches ---
+.prof/
+*.prof
+*.trace.json

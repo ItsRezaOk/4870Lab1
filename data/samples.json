@@ -1,0 +1,20 @@
+[
+  {
+    "image_index": 0,
+    "src": "/home/zaza/cpre_487/lab1/data/image_0_data/input_image.png",
+    "class": "unknown",
+    "copied_to": "/home/zaza/cpre_487/lab1/data/image_0_data/input_image.png"
+  },
+  {
+    "image_index": 1,
+    "src": "/home/zaza/cpre_487/lab1/data/image_1_data/input_image.png",
+    "class": "unknown",
+    "copied_to": "/home/zaza/cpre_487/lab1/data/image_1_data/input_image.png"
+  },
+  {
+    "image_index": 2,
+    "src": "/home/zaza/cpre_487/lab1/data/image_2_data/input_image.png",
+    "class": "unknown",
+    "copied_to": "/home/zaza/cpre_487/lab1/data/image_2_data/input_image.png"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "shape": [
+    64,
+    64,
+    3
+  ],
+  "dtype": "uint8",
+  "label_index": 11
+}
